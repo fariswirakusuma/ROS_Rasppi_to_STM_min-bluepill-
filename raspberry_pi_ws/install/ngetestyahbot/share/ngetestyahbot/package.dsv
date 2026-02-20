@@ -1,0 +1,8 @@
+source;share/ngetestyahbot/hook/cmake_prefix_path.ps1
+source;share/ngetestyahbot/hook/cmake_prefix_path.dsv
+source;share/ngetestyahbot/hook/cmake_prefix_path.sh
+source;share/ngetestyahbot/local_setup.bash
+source;share/ngetestyahbot/local_setup.dsv
+source;share/ngetestyahbot/local_setup.ps1
+source;share/ngetestyahbot/local_setup.sh
+source;share/ngetestyahbot/local_setup.zsh

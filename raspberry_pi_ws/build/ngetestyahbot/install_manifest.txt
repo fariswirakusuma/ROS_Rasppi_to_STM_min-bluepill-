@@ -1,0 +1,16 @@
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/lib/ngetestyahbot/stm_counter
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ament_index/resource_index/package_run_dependencies/ngetestyahbot
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ament_index/resource_index/parent_prefix_path/ngetestyahbot
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ngetestyahbot/environment/ament_prefix_path.sh
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ngetestyahbot/environment/ament_prefix_path.dsv
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ngetestyahbot/environment/path.sh
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ngetestyahbot/environment/path.dsv
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ngetestyahbot/local_setup.bash
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ngetestyahbot/local_setup.sh
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ngetestyahbot/local_setup.zsh
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ngetestyahbot/local_setup.dsv
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ngetestyahbot/package.dsv
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ament_index/resource_index/packages/ngetestyahbot
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ngetestyahbot/cmake/ngetestyahbotConfig.cmake
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ngetestyahbot/cmake/ngetestyahbotConfig-version.cmake
+/home/ubuntunya-faris/Kuliah/URO/ROS_Rasppi_to_STM_min-bluepill-/raspberry_pi_ws/install/ngetestyahbot/share/ngetestyahbot/package.xml

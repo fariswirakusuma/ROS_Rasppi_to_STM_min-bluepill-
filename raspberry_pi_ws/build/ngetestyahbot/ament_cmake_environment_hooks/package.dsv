@@ -1,0 +1,4 @@
+source;share/ngetestyahbot/local_setup.bash
+source;share/ngetestyahbot/local_setup.dsv
+source;share/ngetestyahbot/local_setup.sh
+source;share/ngetestyahbot/local_setup.zsh
